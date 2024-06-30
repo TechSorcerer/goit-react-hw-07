@@ -1,0 +1,14 @@
+.container {
+  background-image: url(https://i.pinimg.com/originals/59/56/d6/5956d6338b29ec7c989a7f63ff84ace4.jpg);
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
